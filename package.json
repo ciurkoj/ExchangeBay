@@ -56,7 +56,7 @@
     "markdownlint": "^0.17.0",
     "puppeteer": "^1.20.0",
     "puppeteer-har": "^1.1.1",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "start-server-and-test": "^1.10.6",
     "supertest": "^4.0.2"
   },
